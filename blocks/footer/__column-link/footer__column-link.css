@@ -1,0 +1,9 @@
+.footer__column-link {
+  padding-bottom: 5px;
+  text-decoration: none;
+  color: white;
+}
+
+.footer__column-link:nth-of-type(3) {
+  padding-bottom: 0px;
+}
