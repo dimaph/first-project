@@ -1,0 +1,12 @@
+.feynman {
+  width: 100%;
+  height: 890px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 100px;
+  row-gap: 70px;
+  position: relative;
+  background-color: #f2f2f2;
+  
+}

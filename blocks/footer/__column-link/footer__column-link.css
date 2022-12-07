@@ -1,9 +1,17 @@
 .footer__column-link {
-  padding-bottom: 5px;
+  padding-bottom: 10px;
   text-decoration: none;
   color: white;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
+  transition: opacity 1s linear 0s;
 }
 
 .footer__column-link:nth-of-type(3) {
   padding-bottom: 0px;
+}
+
+.footer__column-link:hover {
+  opacity: 0.5;
 }

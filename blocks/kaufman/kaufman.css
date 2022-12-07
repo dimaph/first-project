@@ -6,4 +6,7 @@
   align-items: center;
   justify-content: center;
   padding: 90px 0px;
+  position: relative;
+  z-index: -1;
+  overflow: hidden;
 }

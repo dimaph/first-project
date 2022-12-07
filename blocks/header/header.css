@@ -8,5 +8,6 @@
   position: relative;
   justify-content: center;
   padding-left: 64px;
+  overflow: hidden;
   /* выше установили ограничения для секции */
 }
